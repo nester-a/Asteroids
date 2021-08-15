@@ -1,0 +1,9 @@
+C:\Users\neste\source\repos\MyNewAsteroids\bin\Debug\MyNewAsteroids.exe.config
+C:\Users\neste\source\repos\MyNewAsteroids\bin\Debug\MyNewAsteroids.exe
+C:\Users\neste\source\repos\MyNewAsteroids\bin\Debug\MyNewAsteroids.pdb
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.csprojAssemblyReference.cache
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.Properties.Resources.resources
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.csproj.GenerateResource.cache
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.csproj.CoreCompileInputs.cache
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.exe
+C:\Users\neste\source\repos\MyNewAsteroids\obj\Debug\MyNewAsteroids.pdb
